@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/BankOfReact/static/css/main.3afc74c6.css",
-    "main.js": "/BankOfReact/static/js/main.464f5bb6.js",
+    "main.js": "/BankOfReact/static/js/main.e53fa7e8.js",
     "index.html": "/BankOfReact/index.html",
     "main.3afc74c6.css.map": "/BankOfReact/static/css/main.3afc74c6.css.map",
-    "main.464f5bb6.js.map": "/BankOfReact/static/js/main.464f5bb6.js.map"
+    "main.e53fa7e8.js.map": "/BankOfReact/static/js/main.e53fa7e8.js.map"
   },
   "entrypoints": [
     "static/css/main.3afc74c6.css",
-    "static/js/main.464f5bb6.js"
+    "static/js/main.e53fa7e8.js"
   ]
 }
